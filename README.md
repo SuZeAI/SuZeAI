@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently learning PTIT
   
-- 🌱 I’m currently learning Git, AI
+- 🌱 I’m currently learning Git, AI, SQL, JAVA
   
 - 👯 I’m looking to collaborate on Proyectos
   
