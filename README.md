@@ -1,7 +1,9 @@
-<h1> Welcome To Suzu < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h1 align="center"> Welcome To Suzu < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
+  </h1>
 <p align='center'>
 </p>
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+
+  <h2> Here's some fun facts about me: </h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
@@ -34,12 +36,35 @@
 <a href = 'https://www.facebook.com/profile.php?id=100013727041812'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/facebook.svg"/></a>
 <br>
 <br>
-  <br>
-
-| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=SUZU-AI&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SUZU-AI&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SUZU-AI&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=SUZU-AI&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
-
-
-
-<br>
+  <div>
+  <samp>
+    <h2 align="left"> 🔥 Github stats </h2>
+      <br/>
+    <details open>
+  <summary><h3>Languages</h3></summary>
+            <p align="center">
+        <a href="https://github.com/1999AZZAR/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuZuAI&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
+          alt="1999AZZAR :: overall Top Langs " /></a>
+      </p>
+        <p align="center">
+          <a href="https://github.com/1999AZZAR/">
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SuZuAI&theme=gruvbox&layout=compact&hide_border=true"
+          alt="1999AZZAR :: Top Langs by repo" />
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SuZuAI&theme=gruvbox&layout=compact&hide_border=true"
+          alt="1999AZZAR :: Top Langs by commit" />
+          </a>
+        </p>
+</details>
+    <details open>
+  <summary><h3>stasistic</h3></summary>
+        <p align="center">
+          <a href="https://github.com/1999AZZAR/">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=SuZuAI&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=SuZuAI&theme=gruvbox&hide_border=true" />
+          </a>
+       </p>
+     <br>
+     </samp>
+  </div>    
+</details>
