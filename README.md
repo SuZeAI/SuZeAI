@@ -38,7 +38,7 @@
 <br>
   <div>
   <samp>
-    <h2 align="left"> 🔥 Github stats </h2>
+    <h2 align="left"> 🔥Github stats </h2>
       <br/>
     <details open>
   <summary><h3>Languages</h3></summary>
