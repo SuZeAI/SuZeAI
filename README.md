@@ -13,7 +13,7 @@
   
 - 👯 I’m looking to collaborate on Proyectos
   
-- 💬 Ask me about Python, C++
+- 💬 Ask me about Python, C++, C, HTML, CSS
   
 - ⚡ Fun fact: My dream is to be an AI engineer
 
