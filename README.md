@@ -11,7 +11,7 @@
   
 - 🌱 I’m currently learning Git, AI, SQL, JAVA
   
-- 👯 I’m looking to collaborate on Proyectos
+- 👯 I’m looking to collaborate with VinAI
   
 - 💬 Ask me about Python, C++, C, HTML, CSS
   
