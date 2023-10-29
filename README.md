@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently learning PTIT
   
-- 🌱 I’m currently learning AI, Opencv, Pytorch, Tensorflow, SQL, JAVA
+- 🌱 I’m currently learning Pytorch, Tensorflow, SQL
   
 - 👯 I’m looking to collaborate with VinAI
   
-- 💬 Ask me about Python, C++, C, HTML, CSS, DSA BASE, DSA AI, NN
+- 💬 Ask me about AI, Python, C++, C, JAVA, HTML, CSS, DSA BASE, DSA AI, NN
   
 - ⚡ Fun fact: My dream is to be an AI engineer
 
