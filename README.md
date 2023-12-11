@@ -36,7 +36,7 @@
 <h2> 💬 Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://github.com/tuyen0505'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 <a href = 'https://www.facebook.com/profile.php?id=100013727041812'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/facebook.svg"/></a>
-<a href = 'https://www.linkedin.com/in/tuy%C3%AAn-v%C5%A9-38b684272/'> <img width = '32px' align= 'center' src="https://github.com/lifeitech/iconic-resume/blob/master/imgs/linkedin.png"/></a>
+<a href = 'www.linkedin.com/in/suzeai'> <img width = '32px' align= 'center' src="https://github.com/lifeitech/iconic-resume/blob/master/imgs/linkedin.png"/></a>
 <br>
 <br>
   <div>
