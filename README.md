@@ -59,7 +59,7 @@
           </a>
         </p>
 </details>
-    <details open>
+<!--     <details open>
   <summary><h3>stasistic</h3></summary>
         <p align="center">
           <a href="https://github.com/1999AZZAR/">
@@ -70,4 +70,4 @@
      <br>
      </samp>
   </div>    
-</details>
+</details> -->
