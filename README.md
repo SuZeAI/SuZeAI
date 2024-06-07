@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently learning PTIT
   
-- 🔥 Currently, I am working at Viettel Cyber Security.
+- 🔥 Currently, I am working as an AI Research Engineer at Viettel Cyber Security.
   
 - 🌱 I’m currently learning Pytorch, Tensorflow, SQL
   
