@@ -9,6 +9,8 @@
 
 - 🔭 I’m currently learning PTIT
   
+- 🔥 Currently, I am working at Viettel Cyber Security.
+  
 - 🌱 I’m currently learning Pytorch, Tensorflow, SQL
   
 - 👯 I’m looking to collaborate with VinAI
