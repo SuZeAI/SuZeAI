@@ -4,7 +4,7 @@
 </p>
 
   <h2> 🌱 Portfolio </h2> 
-  <a href = 'www.linkedin.com/in/suzeai'> <img width = '32px' align= 'center' src="https://cdn-icons-png.flaticon.com/128/3476/3476457.png"/></a> 
+  <a href = 'http://localhost:5500/public_html/'> <img width = '32px' align= 'center' src="https://cdn-icons-png.flaticon.com/128/3476/3476457.png"/></a> 
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
