@@ -49,8 +49,7 @@
   <samp>
     <h2 align="left"> 🔥 Github status </h2>
       <br/>
-    <details open>
-  <summary><h3>Languages</h3></summary>
+<!--     <details open> -->
             <p align="center">
         <a href="https://github.com/1999AZZAR/">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuZeAI&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
@@ -64,7 +63,7 @@
           alt="1999AZZAR :: Top Langs by commit" />
           </a>
         </p>
-</details>
+<!-- </details> -->
 <!--     <details open>
   <summary><h3>stasistic</h3></summary>
         <p align="center">
