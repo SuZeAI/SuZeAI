@@ -1,6 +1,7 @@
 <h1 align="center"> Welcome To  < SuZeAI >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
   </h1>
 <p align='center'>
+  <video src="assets/introduce_suzeai_3.mp4" width="100%" controls></video>
 </p>
 
   <h2> 🌱 Portfolio </h2> 
